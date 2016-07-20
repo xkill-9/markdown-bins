@@ -1,5 +1,5 @@
 {
-  "name": "meteor-kickstart",
+  "name": "markdown-bins",
   "private": true,
   "scripts": {
     "start": "meteor run"
@@ -11,26 +11,27 @@
     "react-addons-pure-render-mixin": "^15.0.0"
   },
   "version": "1.0.0",
-  "description": "A Kickstart project for a Meteor application using React and SASS, all bundled by using Webpack",
+  "description": "An Application for Markdown collaborative bin editing",
   "main": "src/server.js",
   "browser": "src/client.jsx",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xkill-9/meteor-react-kickstart.git"
+    "url": "https://github.com/xkill-9/markdown-bins.git"
   },
   "keywords": [
     "meteor",
     "webpack",
     "react",
     "sass",
-    "kickstart"
+    "markdown",
+    "bin"
   ],
   "author": "Jorge Ivan Morales",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xkill-9/meteor-react-kickstart/issues"
+    "url": "https://github.com/xkill-9/markdown-bins/issues"
   },
-  "homepage": "https://github.com/xkill-9/meteor-react-kickstart",
+  "homepage": "https://github.com/xkill-9/markdown-bins",
   "devDependencies": {
     "babel": "^6.3.26",
     "babel-core": "^6.3.26",
