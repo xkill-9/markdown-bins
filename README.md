@@ -1,1 +1,1 @@
-# meteor-react-kickstart
+# Markdown bin editor
