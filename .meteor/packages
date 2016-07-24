@@ -20,3 +20,6 @@ webpack:webpack
 webpack:react
 webpack:sass
 react-meteor-data
+twbs:bootstrap@3.3.6
+accounts-ui
+accounts-password

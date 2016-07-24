@@ -1,12 +1,15 @@
 import React, {Component} from 'react';
-import './app.import.scss';
 
+import Header from './header/header';
+
+import './app.import.scss';
 
 class App extends Component {
   render() {
     return (
       <div>
-        <h1 className="welcome">Hello World</h1>
+        < Header/ >
+        {this.props.children}
       </div>
     )
   }
